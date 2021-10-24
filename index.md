@@ -15,12 +15,14 @@ Traffic state prediction is necessary for many Intelligent Transportation System
 
 ## Cite
 
-`@InProceedings{Poudel2021Attack,
+`
+@InProceedings{Poudel2021Attack,
   author = {Bibek Poudel and Weizi Li},
   title = {Black-box Adversarial Attacks on Network-wide Multi-step Traffic State Prediction Models},
   booktitle = {IEEE International Conference on Intelligent Transportation Systems},
   year = {2021},
-}`
+}
+`
 
 
 ## Acknowledgements
