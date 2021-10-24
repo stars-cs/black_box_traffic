@@ -13,5 +13,15 @@ Traffic state prediction is necessary for many Intelligent Transportation System
 2. [Slides](https://github.com/stars-cs/black_box_traffic/blob/gh-pages/Black%20Box%20Adversarial%20Attacks.pdf)
 3. [Video Presentation](https://github.com/stars-cs/black_box_traffic/blob/gh-pages/Black%20Box%20Adversarial%20Attacks.pdf)
 
+## Cite
+
+`@InProceedings{Poudel2021Attack,
+  author = {Bibek Poudel and Weizi Li},
+  title = {Black-box Adversarial Attacks on Network-wide Multi-step Traffic State Prediction Models},
+  booktitle = {IEEE International Conference on Intelligent Transportation Systems},
+  year = {2021},
+}`
+
+
 ## Acknowledgements
 The authors would like to thank the University of Memphis for providing the start-up fund.
