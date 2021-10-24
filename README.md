@@ -18,6 +18,8 @@ The code given here assumes you have pretrained models for GCGRNN and DCRNN. To 
 -  GCGRNN code: https://github.com/leilin-research/GCGRNN
 -  DCRNN code: https://github.com/liyaguang/DCRNN
 
+Essentially, for each type of model all other code is contained in 7 Jupyter Notebooks:
+- Part_0_(Model_Name)_preds_on_training
 
 -----
 Result Display
