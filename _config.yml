@@ -1,2 +1,3 @@
 theme: jekyll-theme-minimal
-minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise", "default"
+title: [Black-box Adversarial Attacks on Network-wide Multi-step Traffic State Prediction Models]
+description: [A short description of your site's purpose]
