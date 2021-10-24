@@ -1,1 +1,2 @@
 theme: jekyll-theme-minimal
+minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise", "default"
