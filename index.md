@@ -6,3 +6,6 @@ Traffic state prediction is necessary for many Intelligent Transportation System
 
 
 ![](hero.png)
+
+-------
+## Link to the [paper](https://arxiv.org/abs/2110.08712)
