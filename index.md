@@ -8,4 +8,7 @@ Traffic state prediction is necessary for many Intelligent Transportation System
 ![](hero.png)
 
 -------
-## Link to the [paper](https://arxiv.org/abs/2110.08712)
+## Links
+1. [paper](https://arxiv.org/abs/2110.08712)
+2. [Slides](https://github.com/stars-cs/black_box_traffic/blob/gh-pages/Black%20Box%20Adversarial%20Attacks.pdf)
+3. [Video Presentation](https://github.com/stars-cs/black_box_traffic/blob/gh-pages/Black%20Box%20Adversarial%20Attacks.pdf)
