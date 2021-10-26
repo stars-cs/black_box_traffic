@@ -2,7 +2,7 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yxOBCIl1o-Y?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
 
 -------
-### [Bibek Poudel](https://github.com/Bibek-Poudel) and [Weizi Li](https://weizi-li.github.io/publications.html)
+### [Bibek Poudel](https://github.com/Bibek-Poudel) and [Weizi Li](https://weizi-li.github.io)
 -------
 
 ## Abstract
